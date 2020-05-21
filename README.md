@@ -8,4 +8,4 @@ Scripts that parse test output from the bridge designer
 
 ## bridge_test_output.csv
 
-* A sample csv file the `bridge_calc.py` takes in
+* A sample csv file the `bridge_calc.py` takes in. We generated this file by copying the test output to the clipboard, pasting it into excel and exporting it as a .csv file. The top headers are also removed.
